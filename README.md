@@ -17,7 +17,7 @@
 	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div><br>
 
-## Tenho um interesse enorme em descobrir como as tecnologias funcionam 🤓
+## Adoro futucar e descobrir como as tecnologias funcionam 🤓
 <section>
   
 - 🎓 2º semestre em Análise e Desenolvimento de Sistemas através do IFBA - Campus Salvador.
