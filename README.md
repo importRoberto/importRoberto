@@ -7,7 +7,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=importRoberto&layout=donut&size_weight=0.5&count_weight=0.5&theme=transparent" alt="Top Langs"/>
 </div>
 
-## Stack
+## Stack 🖥
 <div style="display:inline_block"><br>
 	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -18,10 +18,9 @@
 </div><br>
 
 ## Tenho um interesse enorme em descobrir como as tecnologias funcionam 🤓
-
 <section>
   
-- 📖 2º semestre em Análise e Desenolvimento de Sistemas através do IFBA - Campus Salvador.
+- 🎓 2º semestre em Análise e Desenolvimento de Sistemas através do IFBA - Campus Salvador.
 - 👨🏽‍💼 Atualmente trabalhando como Gerente de Vendas na loja Isis Conveniências em Lauro de Freitas.
 - 👨🏽‍💻 Fazendo trabalhos Freelance nas horas vagas como método de prática.
 - 👨🏽‍🔧 Técnico em Mecânica Industrial através do IFBA - Campus Simões Filho.
