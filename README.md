@@ -24,7 +24,7 @@
 - 👨🏽‍💼 Atualmente trabalhando como Gerente de Vendas na loja Isis Conveniências em Lauro de Freitas.
 - 👨🏽‍💻 Fazendo trabalhos Freelance nas horas vagas como método de prática.
 - 👨🏽‍🔧 Técnico em Mecânica Industrial através do IFBA - Campus Simões Filho.
-- ❤ Além de programar, 🏍 Amo pilotar motocicletas, 🎮 jogos eletrônicos e 🐲 TTRPGs.
+- ❤ Além de programar 🏍 Amo motos 🎮 jogos eletrônicos e 🐲 TTRPGs.
   
 </section>
 
