@@ -17,14 +17,14 @@
 	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div><br>
 
-## Adoro futucar e descobrir como as tecnologias funcionam 🤓
+## I love to tinker and discover how new and old technologies work 🤓
 <section>
   
-- 🎓 2º semestre em Análise e Desenolvimento de Sistemas através do IFBA - Campus Salvador.
-- 👨🏽‍💼 Atualmente trabalhando como Gerente de Vendas na loja Isis Conveniências em Lauro de Freitas.
-- 👨🏽‍💻 Fazendo trabalhos Freelance nas horas vagas como método de prática.
-- 👨🏽‍🔧 Técnico em Mecânica Industrial através do IFBA - Campus Simões Filho.
-- ❤ Além de programar 🏍 Amo motos 🎮 jogos eletrônicos e 🐲 TTRPGs.
+- 🎓 2º semester in System Analysis and Development through IFBA - Campus Salvador. (Bahia, Brazil).
+- 👨🏽‍💼 Currently working as Sales Manager for Isis Conveniências in Lauro de Freitas.
+- 👨🏽‍💻 Freelancing in my free time as a way to practice and aquire more experience.
+- 👨🏽‍🔧 Industrial Mechanics Technician through IFBA - Campus Simões Filho.
+- ❤ Besides development and coding 🏍 I'm into motorcicles 🎮 Electronic Games and 🐲 TTRPGs.
   
 </section>
 
