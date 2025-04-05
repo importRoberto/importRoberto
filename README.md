@@ -20,7 +20,7 @@
 ## I love to tinker and discover how new and old technologies work 🤓
 <section>
   
-- 🎓 2nd semester in System Analysis and Development through IFBA - Campus Salvador. (Bahia, Brazil).
+- 🎓 3rd semester in System Analysis and Development through IFBA - Campus Salvador. (Bahia, Brazil).
 - 👨🏽‍💼 Currently working as Monitoring Assistant for WEpayments.
 - 👨🏽‍💻 Freelancing in my free time as a way to practice and aquire more experience.
 - 👨🏽‍🔧 Industrial Mechanics Technician through IFBA - Campus Simões Filho.
