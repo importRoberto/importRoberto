@@ -22,7 +22,6 @@
   
 - 🎓 3rd semester in System Analysis and Development through IFBA - Campus Salvador. (Bahia, Brazil).
 - 👨🏽‍💼 Currently working as Monitoring Assistant for WEpayments.
-- 👨🏽‍💻 Freelancing in my free time as a way to practice and acquire more experience.
 - 👨🏽‍🔧 Industrial Mechanics Technician through IFBA - Campus Simões Filho.
 - ❤ Besides development and coding 🏍 I'm into motorcicles 🎮 Electronic Games and 🐲 TTRPGs.
   
